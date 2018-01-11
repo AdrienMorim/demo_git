@@ -4,4 +4,4 @@ Une demo de git
 Une petite modification pour la démo
 
 Et mnt on modifie depuis GitHub
-Mais aussi depuis ma machine local ;)
+Mais aussi depuis ma machine locale & c'est cool ;)
